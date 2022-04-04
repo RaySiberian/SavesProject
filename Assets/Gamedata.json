@@ -1,0 +1,109 @@
+{
+  "SaveLevelDatas": [
+    {
+      "LevelId": 0,
+      "Inventory": {
+        "Wood": 1,
+        "Stone": 1
+      },
+      "PlayerPosition": {
+        "x": 1.4850149154663087,
+        "y": 0.015000003390014172,
+        "z": 0.0
+      },
+      "Resources": [
+        {
+          "Prefab": {
+            "instanceID": -76454
+          },
+          "Position": {
+            "x": 1.5,
+            "y": 6.0,
+            "z": 0.0
+          },
+          "IsOnScene": true
+        },
+        {
+          "Prefab": {
+            "instanceID": -76454
+          },
+          "Position": {
+            "x": 3.5,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "IsOnScene": false
+        },
+        {
+          "Prefab": {
+            "instanceID": -76012
+          },
+          "Position": {
+            "x": -0.5,
+            "y": 2.0,
+            "z": 0.0
+          },
+          "IsOnScene": false
+        }
+      ]
+    },
+    {
+      "LevelId": 1,
+      "Inventory": {
+        "Wood": 1,
+        "Stone": 1
+      },
+      "PlayerPosition": {
+        "x": -0.4849999248981476,
+        "y": 3.984999895095825,
+        "z": 0.0
+      },
+      "Resources": [
+        {
+          "Prefab": {
+            "instanceID": -76454
+          },
+          "Position": {
+            "x": 3.5,
+            "y": 3.0,
+            "z": 0.0
+          },
+          "IsOnScene": true
+        },
+        {
+          "Prefab": {
+            "instanceID": -76454
+          },
+          "Position": {
+            "x": 3.5,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "IsOnScene": true
+        },
+        {
+          "Prefab": {
+            "instanceID": -76454
+          },
+          "Position": {
+            "x": -0.5,
+            "y": 4.0,
+            "z": 0.0
+          },
+          "IsOnScene": false
+        },
+        {
+          "Prefab": {
+            "instanceID": -76012
+          },
+          "Position": {
+            "x": -0.5,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "IsOnScene": false
+        }
+      ]
+    }
+  ]
+}

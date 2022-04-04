@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a9bfc3414e14e338402f2e2965d50e0, type: 3}
+  m_Name: LevelTwo
+  m_EditorClassIdentifier: 
+  LevelID: 1
+  NeedWood: 1
+  NeedStone: 3
+  NextSceneIndex: 0
+  Resources:
+  - Prefab: {fileID: -5223311090010096171, guid: d20caa78416244445977ab79d6507236, type: 3}
+    Position: {x: 3.5, y: 3, z: 0}
+    IsOnScene: 1
+  - Prefab: {fileID: -5223311090010096171, guid: d20caa78416244445977ab79d6507236, type: 3}
+    Position: {x: 3.5, y: 0, z: 0}
+    IsOnScene: 1
+  - Prefab: {fileID: -5223311090010096171, guid: d20caa78416244445977ab79d6507236, type: 3}
+    Position: {x: -0.5, y: 4, z: 0}
+    IsOnScene: 1
+  - Prefab: {fileID: -3878311794210295146, guid: 90cbabbc4f49550409008d40da768998, type: 3}
+    Position: {x: -0.5, y: 0, z: 0}
+    IsOnScene: 1
+  Player: {fileID: 980727491022765912, guid: b4e9cabd714b3f443a42ea2a907a465f, type: 3}
+  PlayerPosition: {x: 1.5, y: 4, z: 0}
